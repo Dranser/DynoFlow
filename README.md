@@ -19,9 +19,6 @@ The **DynoFlow** mod allows deep customization of vehicle parameters, providing 
 - Use the sliders to modify parameters like weight, weight distribution, downforce, and center of mass.
 - **Save your changes** by clicking the **Apply** button. To **reset settings to their original values**, click the **Reset** button.
 
-## Compatibility
-- Version `2.20.0` is **not compatible** with previous versions (`1.x.x`), as it includes significant changes to the functionality.
-
 ## Feedback and Support
 If you have questions or suggestions, please create an [Issue](https://github.com/Dranser/DynoFlow/issues)) on GitHub, and we will do our best to assist you.
 
